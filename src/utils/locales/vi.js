@@ -1,0 +1,43 @@
+export default {
+  home_nav: "Trang Chủ",
+  services_nav: "Dịch Vụ",
+  booked_nav: "Lịch Đặt",
+  profile_nav: "Tài Khoản",
+  greeting_text: "Chào mừng bạn đến với “SuBee Nail”",
+  greeting_content: "Phục vụ chu đáo, thân thiện, giá cả phải chăng",
+  greeting_btn: "Bắt Đầu",
+  or: "Hoặc",
+  hi: "Xin chào",
+  signin_title: "Đăng Nhập",
+  email: "EMAIL",
+  password: "MẬT KHẢU",
+  login: "Đăng Nhập",
+  google_loggin: "Đăng nhập với tài khoản Google",
+
+  signup_title: "Đăng Ký",
+  firstname: "Tên",
+  lastname: "Họ",
+  google_signup: "Đăng ký với tài khoản Google",
+  details: "Chi tiết",
+  hot_services: "Được Yêu Thích",
+  watch_more: "Xem Thêm",
+  ranking_member: "Bảng Xếp Hạng",
+  point_text: "Điểm",
+  hello: "Xin Chào",
+
+  book: "Đặt",
+  booked: "Đã Đặt",
+  booking: "Đặt Trước",
+
+  services_in_cart: "Dịch Vụ Đã Đặt",
+  cart: "Giỏ Hàng",
+  amount: "Giá Tiền",
+  tip: "Tiền Bo",
+  total: "Tổng Tiền",
+  choose_date: "Chọn Ngày",
+
+  history: "Lịch Sử",
+  point: "Điểm",
+  settings: "Cài Đặt",
+  logout: "Đăng Xuất"
+};
